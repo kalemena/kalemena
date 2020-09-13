@@ -1,4 +1,4 @@
-### Hi 👋, I'm Clément CHOEL
+### Hi 👋, I'm Clément
 
 <!--
 **kalemena/kalemena** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -20,7 +20,7 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 - 🏠 Living in Brest, France 🇫🇷 ...
 - 🔭 Senior Manager Development ...
-- 🤖 Automate things ...
+- 🤖 Automating things ...
 - :scroll: Open source advocate ...
 - 🔨 Maker ...
 
@@ -31,6 +31,7 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
 
 **Languages and Tools:** 
 
+![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
