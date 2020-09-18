@@ -16,12 +16,14 @@ Here are some ideas to get you started:
 
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
 - :rocket: DevOps ... 
+https://simpleicons.org
+vagrant, visualstudiocode,
 -->
 
 - 🏠 Living in Brest, France 🇫🇷 ...
 - 🔭 Senior Manager Development ...
 - 🤖 Automating things ...
-- :scroll: Open source advocate ...
+- :scroll: Open source and Open Hardware advocate ...
 - 🔨 Maker ...
 
 <details>
@@ -32,7 +34,9 @@ https://github.com/abhisheknaiidu/awesome-github-profile-readme
 **Languages and Tools:** 
 
 ![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&style=social)&nbsp;&nbsp;
+![Apple](https://img.shields.io/badge/-Apple-black?logo=apple&style=social)&nbsp;&nbsp;
 ![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
+
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
 ![Quarkus](https://img.shields.io/badge/-Quarkus-black?logo=quarkus&style=social)&nbsp;&nbsp;
