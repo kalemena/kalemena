@@ -33,13 +33,18 @@ vagrant, visualstudiocode,
 
 **Languages and Tools:** 
 
-![Linux](https://img.shields.io/badge/-Linux-black?logo=linux&style=social)&nbsp;&nbsp;
-![Apple](https://img.shields.io/badge/-Apple-black?logo=apple&style=social)&nbsp;&nbsp;
-![Docker](https://img.shields.io/badge/-Docker-black?logo=docker&style=social)&nbsp;&nbsp;
+![Linux](https://img.shields.io/badge/-black?logo=linux&style=social)&nbsp;&nbsp;
+![Windows](https://img.shields.io/badge/-black?logo=windows&style=social)&nbsp;&nbsp;
+![iOS](https://img.shields.io/badge/-black?logo=apple&style=social)&nbsp;&nbsp;
+...
 
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
 ![Quarkus](https://img.shields.io/badge/-Quarkus-black?logo=quarkus&style=social)&nbsp;&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-black?logo=eclipseide&style=social)&nbsp;&nbsp;
+![VSCode](https://img.shields.io/badge/-VSCode-black?logo=visualstudiocode&style=social)&nbsp;&nbsp;
+...
+
 ![Python](https://img.shields.io/badge/-Python-black?logo=Python&style=social)&nbsp;&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?logo=javascript&style=social)&nbsp;&nbsp;
 ![Arduino](https://img.shields.io/badge/-Arduino-black?logo=arduino&style=social)&nbsp;&nbsp;
