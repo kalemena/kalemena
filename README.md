@@ -41,7 +41,7 @@ vagrant, visualstudiocode,
 ![Java](https://img.shields.io/badge/-Java-black?logo=java&style=social)&nbsp;&nbsp;
 ![Spring](https://img.shields.io/badge/-Spring%20Framework-black?logo=spring&style=social)&nbsp;&nbsp;
 ![Quarkus](https://img.shields.io/badge/-Quarkus-black?logo=quarkus&style=social)&nbsp;&nbsp;
-![Eclipse](https://simpleicons.org/icons/eclipseide.svg)&nbsp;&nbsp;
+![Eclipse](https://img.shields.io/badge/-Eclipse-black?logo=eclipseide&style=social)&nbsp;&nbsp;
 ![VSCode](https://img.shields.io/badge/-VSCode-black?logo=visualstudiocode&style=social)&nbsp;&nbsp;
 ...
 
