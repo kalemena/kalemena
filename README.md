@@ -15,15 +15,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 https://github.com/abhisheknaiidu/awesome-github-profile-readme
-- :rocket: DevOps ... 
 https://simpleicons.org
-vagrant, visualstudiocode,
 -->
 
 - 🏠 Living in Brest, France 🇫🇷 ...
 - 🔭 Senior Manager Development ...
-- 🤖 Automating things ...
-- :scroll: Open source and Open Hardware advocate ...
+- 🤖 Automating things up to :rocket: ... and beyond ... 
+- :scroll: Open Source and Open Hardware advocate ...
 - 🔨 Maker ...
 
 <details>
@@ -33,37 +31,56 @@ vagrant, visualstudiocode,
 
 **Languages and Tools:** 
 
-![Linux](https://img.shields.io/badge/-black?logo=linux&style=social)&nbsp;&nbsp;
-![Windows](https://img.shields.io/badge/-black?logo=windows&style=social)&nbsp;&nbsp;
-![iOS](https://img.shields.io/badge/-black?logo=apple&style=social)&nbsp;&nbsp;
+![Linux](https://img.shields.io/badge/-black?logo=linux&style=social)&nbsp;
+![Windows](https://img.shields.io/badge/-black?logo=windows&style=social)&nbsp;
+![iOS](https://img.shields.io/badge/-black?logo=apple&style=social)&nbsp;
 ...
 
-![Java](https://img.shields.io/badge/--black?logo=java&style=social)&nbsp;&nbsp;
-![Spring](https://img.shields.io/badge/--black?logo=spring&style=social)&nbsp;&nbsp;
-![Quarkus](https://img.shields.io/badge/--black?logo=quarkus&style=social)&nbsp;&nbsp;
-![Eclipse](https://img.shields.io/badge/--black?logo=eclipse&style=social)&nbsp;&nbsp;
-![VSCode](https://img.shields.io/badge/--black?logo=visual-studio-code&style=social)&nbsp;&nbsp;
+![Java](https://img.shields.io/badge/--black?logo=java&style=social)&nbsp;
+![Spring](https://img.shields.io/badge/--black?logo=spring&style=social)&nbsp;
+![Quarkus](https://img.shields.io/badge/--black?logo=quarkus&style=social)&nbsp;
+![Maven](https://img.shields.io/badge/--black?logo=apache-maven&style=social)&nbsp;
+![Gradle](https://img.shields.io/badge/--black?logo=gradle&style=social)&nbsp;
+![Eclipse](https://img.shields.io/badge/--black?logo=eclipse&style=social)&nbsp;
+![VSCode](https://img.shields.io/badge/--black?logo=visual-studio-code&style=social)&nbsp;
 ...
 
-![Python](https://img.shields.io/badge/--black?logo=Python&style=social)&nbsp;&nbsp;
-![JavaScript](https://img.shields.io/badge/--black?logo=javascript&style=social)&nbsp;&nbsp;
-![Markdown](https://img.shields.io/badge/--black?logo=markdown&style=social)&nbsp;&nbsp;
-![Asciidoc](https://img.shields.io/badge/--black?logo=asciidoctor&style=social)&nbsp;&nbsp;
+![Python](https://img.shields.io/badge/--black?logo=Python&style=social)&nbsp;
+![JavaScript](https://img.shields.io/badge/--black?logo=javascript&style=social)&nbsp;
+![Markdown](https://img.shields.io/badge/--black?logo=markdown&style=social)&nbsp;
+![Asciidoc](https://img.shields.io/badge/--black?logo=asciidoctor&style=social)&nbsp;
 ...
 
-![Docker](https://img.shields.io/badge/--black?logo=docker&style=social)&nbsp;&nbsp;
-![Ansible](https://img.shields.io/badge/--black?logo=ansible&style=social)&nbsp;&nbsp;
-![AWS](https://img.shields.io/badge/--black?logo=amazon-aws&style=social)&nbsp;&nbsp;
-![Azure](https://img.shields.io/badge/--black?logo=azuredevops&style=social)&nbsp;&nbsp;
+![MySQL](https://img.shields.io/badge/--black?logo=mysql&style=social)&nbsp;
+![MSSQL](https://img.shields.io/badge/--black?logo=microsoft-mssql&style=social)&nbsp;
+![Oracle](https://img.shields.io/badge/--black?logo=oracle&style=social)&nbsp;
+![Cassandra](https://img.shields.io/badge/--black?logo=apache-cassandra&style=social)&nbsp;
+![Redis](https://img.shields.io/badge/--black?logo=redis&style=social)&nbsp;
+![InfluxDB](https://img.shields.io/badge/--black?logo=influxdb&style=social)&nbsp;
 ...
 
-![Arduino](https://img.shields.io/badge/--black?logo=arduino&style=social)&nbsp;&nbsp;
-![Node-RED](https://img.shields.io/badge/--black?logo=node-red&style=social)&nbsp;&nbsp;
-![GitHub](https://img.shields.io/badge/--black?logo=github&style=social)&nbsp;&nbsp;
-![Telegram](https://img.shields.io/badge/--black?logo=telegram&style=social)&nbsp;&nbsp;
-![Zigbee](https://img.shields.io/badge/--black?logo=zigbee&style=social)&nbsp;&nbsp;
-![Z-Wave](https://img.shields.io/badge/--black?logo=z-wave&style=social)&nbsp;&nbsp;
-![Garmin](https://img.shields.io/badge/--black?logo=garmin&style=social)&nbsp;&nbsp;
+![GithubActions](https://img.shields.io/badge/--black?logo=github-actions&style=social)&nbsp;
+![Jenkins](https://img.shields.io/badge/--black?logo=jenkins&style=social)&nbsp;
+![Docker](https://img.shields.io/badge/--black?logo=docker&style=social)&nbsp;
+![K8S](https://img.shields.io/badge/--black?logo=kubernetes&style=social)&nbsp;
+![Helm](https://img.shields.io/badge/--black?logo=helm&style=social)&nbsp;
+![Vagrant](https://img.shields.io/badge/--black?logo=vagrant&style=social)&nbsp;
+![Ansible](https://img.shields.io/badge/--black?logo=ansible&style=social)&nbsp;
+![Terraform](https://img.shields.io/badge/--black?logo=terraform&style=social)&nbsp;
+![AWS](https://img.shields.io/badge/--black?logo=amazon-aws&style=social)&nbsp;
+![Azure](https://img.shields.io/badge/--black?logo=microsoft-azure&style=social)&nbsp;
+![Prometheus](https://img.shields.io/badge/--black?logo=prometheus&style=social)&nbsp;
+![Grafana](https://img.shields.io/badge/--black?logo=grafana&style=social)&nbsp;
+...
+
+![Arduino](https://img.shields.io/badge/--black?logo=arduino&style=social)&nbsp;
+![Node-RED](https://img.shields.io/badge/--black?logo=node-red&style=social)&nbsp;
+![GitHub](https://img.shields.io/badge/--black?logo=github&style=social)&nbsp;
+![Telegram](https://img.shields.io/badge/--black?logo=telegram&style=social)&nbsp;
+![Zigbee](https://img.shields.io/badge/--black?logo=zigbee&style=social)&nbsp;
+![Z-Wave](https://img.shields.io/badge/--black?logo=z-wave&style=social)&nbsp;
+![Garmin](https://img.shields.io/badge/--black?logo=garmin&style=social)&nbsp;
+![Gimp](https://img.shields.io/badge/--black?logo=gimp&style=social)&nbsp;
 ...
 
 **Stats:** 
