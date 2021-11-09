@@ -83,10 +83,6 @@ https://simpleicons.org
 ![Gimp](https://img.shields.io/badge/--black?logo=gimp&style=social)&nbsp;
 ...
 
-**Pages:**
-
-![Github sites](https://kalemena.github.io/)
-
 **Stats:** 
 
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=kalemena&count_private=true&show_icons=true&include_all_commits=true)
