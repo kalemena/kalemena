@@ -57,6 +57,7 @@ https://simpleicons.org
 ![Cassandra](https://img.shields.io/badge/--black?logo=apache-cassandra&style=social)&nbsp;
 ![Redis](https://img.shields.io/badge/--black?logo=redis&style=social)&nbsp;
 ![InfluxDB](https://img.shields.io/badge/--black?logo=influxdb&style=social)&nbsp;
+![Prometheus](https://img.shields.io/badge/--black?logo=prometheus&style=social)&nbsp;
 ...
 
 ![GithubActions](https://img.shields.io/badge/--black?logo=github-actions&style=social)&nbsp;
@@ -69,7 +70,7 @@ https://simpleicons.org
 ![Terraform](https://img.shields.io/badge/--black?logo=terraform&style=social)&nbsp;
 ![AWS](https://img.shields.io/badge/--black?logo=amazon-aws&style=social)&nbsp;
 ![Azure](https://img.shields.io/badge/--black?logo=microsoft-azure&style=social)&nbsp;
-![Prometheus](https://img.shields.io/badge/--black?logo=prometheus&style=social)&nbsp;
+![Azure](https://img.shields.io/badge/--black?logo=googlecloud&style=social)&nbsp;
 ![Grafana](https://img.shields.io/badge/--black?logo=grafana&style=social)&nbsp;
 ...
 
