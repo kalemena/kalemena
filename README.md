@@ -31,57 +31,61 @@ https://simpleicons.org
 
 **Languages and Tools:** 
 
-![Linux](https://img.shields.io/badge/-black?logo=linux&style=social)&nbsp;
-![Windows](https://img.shields.io/badge/-black?logo=windows&style=social)&nbsp;
-![iOS](https://img.shields.io/badge/-black?logo=apple&style=social)&nbsp;
+![Linux](https://img.shields.io/badge/-FCC624?logo=linux&logoColor=black "Linux")&nbsp;
+![Debian](https://img.shields.io/badge/-A81D33?logo=debian&logoColor=fff "Debian")&nbsp;
+![Windows](https://custom-icon-badges.demolab.com/badge/-0078D6?logo=windows11&logoColor=white "Windows")&nbsp;
+![iOS](https://img.shields.io/badge/-black?logo=apple&style=social "iOS")&nbsp;
 ...
 
-![Java](https://img.shields.io/badge/--black?logo=java&style=social)&nbsp;
-![Spring](https://img.shields.io/badge/--black?logo=spring&style=social)&nbsp;
-![Quarkus](https://img.shields.io/badge/--black?logo=quarkus&style=social)&nbsp;
-![Maven](https://img.shields.io/badge/--black?logo=apache-maven&style=social)&nbsp;
-![Gradle](https://img.shields.io/badge/--black?logo=gradle&style=social)&nbsp;
-![Eclipse](https://img.shields.io/badge/--black?logo=eclipse&style=social)&nbsp;
-![VSCode](https://img.shields.io/badge/--black?logo=visual-studio-code&style=social)&nbsp;
+![Java](https://img.shields.io/badge/--black?logo=openjdk&style=social "Java")&nbsp;
+![Spring](https://img.shields.io/badge/--black?logo=spring&style=social "Spring")&nbsp;
+![Quarkus](https://img.shields.io/badge/--black?logo=quarkus&style=social "Quarkus")&nbsp;
+![Maven](https://img.shields.io/badge/--black?logo=apache-maven&style=social "Maven")&nbsp;
+![Gradle](https://img.shields.io/badge/--black?logo=gradle&style=social "Gradle")&nbsp;
+![Eclipse](https://img.shields.io/badge/--black?logo=eclipse&style=social "Eclipse IDE")&nbsp;
+![VSCode](https://custom-icon-badges.demolab.com/badge/--black?&logo=vsc&logoColor=blue "Visual Studio Code")&nbsp;
 ...
 
-![Python](https://img.shields.io/badge/--black?logo=Python&style=social)&nbsp;
-![JavaScript](https://img.shields.io/badge/--black?logo=javascript&style=social)&nbsp;
-![Markdown](https://img.shields.io/badge/--black?logo=markdown&style=social)&nbsp;
-![Asciidoc](https://img.shields.io/badge/--black?logo=asciidoctor&style=social)&nbsp;
+![Python](https://img.shields.io/badge/--black?logo=Python&style=social "Python")&nbsp;
+![JavaScript](https://img.shields.io/badge/--black?logo=javascript&style=social "Jvascript")&nbsp;
+![Clojure](https://img.shields.io/badge/-5881D8?logo=clojure&logoColor=fff "Clojure")&nbsp;
+![Bash](https://img.shields.io/badge/-4EAA25?logo=gnubash&logoColor=fff "Bash")&nbsp;
+![Markdown](https://img.shields.io/badge/--black?logo=markdown&style=social "Markdown")&nbsp;
+![Asciidoc](https://img.shields.io/badge/--black?logo=asciidoctor&style=social "Asciidoc")&nbsp;
 ...
 
-![MySQL](https://img.shields.io/badge/--black?logo=mysql&style=social)&nbsp;
-![MSSQL](https://img.shields.io/badge/--black?logo=microsoft-mssql&style=social)&nbsp;
-![Oracle](https://img.shields.io/badge/--black?logo=oracle&style=social)&nbsp;
-![Cassandra](https://img.shields.io/badge/--black?logo=apache-cassandra&style=social)&nbsp;
-![Redis](https://img.shields.io/badge/--black?logo=redis&style=social)&nbsp;
-![InfluxDB](https://img.shields.io/badge/--black?logo=influxdb&style=social)&nbsp;
-![Prometheus](https://img.shields.io/badge/--black?logo=prometheus&style=social)&nbsp;
+![MySQL](https://img.shields.io/badge/--black?logo=mysql&style=social "MySQL")&nbsp;
+![Postgres](https://img.shields.io/badge/-%23316192.svg?logo=postgresql&logoColor=white "Postgres")&nbsp;
+![Oracle](https://custom-icon-badges.demolab.com/badge/-F80000?logo=oracle&logoColor=fff "Oracle")&nbsp;
+![Cassandra](https://img.shields.io/badge/--black?logo=apache-cassandra&style=social "Cassandra")&nbsp;
+![Redis](https://img.shields.io/badge/--black?logo=redis&style=social "Redis")&nbsp;
+![InfluxDB](https://img.shields.io/badge/--black?logo=influxdb&style=social "InfluxDB")&nbsp;
+![Prometheus](https://img.shields.io/badge/--black?logo=prometheus&style=social "Prometheus")&nbsp;
+![Grafana](https://img.shields.io/badge/--black?logo=grafana&style=social "Grafana")&nbsp;
 ...
 
-![GithubActions](https://img.shields.io/badge/--black?logo=github-actions&style=social)&nbsp;
-![Jenkins](https://img.shields.io/badge/--black?logo=jenkins&style=social)&nbsp;
-![Docker](https://img.shields.io/badge/--black?logo=docker&style=social)&nbsp;
-![K8S](https://img.shields.io/badge/--black?logo=kubernetes&style=social)&nbsp;
-![Helm](https://img.shields.io/badge/--black?logo=helm&style=social)&nbsp;
-![Vagrant](https://img.shields.io/badge/--black?logo=vagrant&style=social)&nbsp;
-![Ansible](https://img.shields.io/badge/--black?logo=ansible&style=social)&nbsp;
-![Terraform](https://img.shields.io/badge/--black?logo=terraform&style=social)&nbsp;
-![AWS](https://img.shields.io/badge/--black?logo=amazon-aws&style=social)&nbsp;
-![Azure](https://img.shields.io/badge/--black?logo=microsoft-azure&style=social)&nbsp;
-![Azure](https://img.shields.io/badge/--black?logo=googlecloud&style=social)&nbsp;
-![Grafana](https://img.shields.io/badge/--black?logo=grafana&style=social)&nbsp;
+![Git](https://img.shields.io/badge/-F05032?logo=git&logoColor=fff "Git")&nbsp;
+![GitHub](https://img.shields.io/badge/--black?logo=github&style=social "Github")&nbsp;
+![GithubActions](https://img.shields.io/badge/--black?logo=github-actions&style=social "Github Actions")&nbsp;
+![Bitbucket](https://img.shields.io/badge/-0052CC?logo=bitbucket&logoColor=fff "Bitbucket")&nbsp;
+![Jenkins](https://img.shields.io/badge/--black?logo=jenkins&style=social "Jenkins")&nbsp;
+![Docker](https://img.shields.io/badge/--black?logo=docker&style=social "Docker")&nbsp;
+![K8S](https://img.shields.io/badge/--black?logo=kubernetes&style=social "Kubernetes")&nbsp;
+![Helm](https://img.shields.io/badge/--black?logo=helm&style=social "Helm")&nbsp;
+![Vagrant](https://img.shields.io/badge/--black?logo=vagrant&style=social "Vagrant")&nbsp;
+![Ansible](https://img.shields.io/badge/--black?logo=ansible&style=social "Ansible")&nbsp;
+![Terraform](https://img.shields.io/badge/--black?logo=terraform&style=social "Terraform")&nbsp;
+![AWS](https://img.shields.io/badge/--black?logo=amazon-web-services&style=social "AWS")&nbsp;
+![Azure](https://custom-icon-badges.demolab.com/badge/-0089D6?logo=msazure&logoColor=white "Azure")&nbsp;
+![GoogleCloud](https://img.shields.io/badge/--black?logo=googlecloud&style=social "Google Cloud")&nbsp;
 ...
 
-![Arduino](https://img.shields.io/badge/--black?logo=arduino&style=social)&nbsp;
-![Node-RED](https://img.shields.io/badge/--black?logo=node-red&style=social)&nbsp;
-![GitHub](https://img.shields.io/badge/--black?logo=github&style=social)&nbsp;
-![Telegram](https://img.shields.io/badge/--black?logo=telegram&style=social)&nbsp;
-![Zigbee](https://img.shields.io/badge/--black?logo=zigbee&style=social)&nbsp;
-![Z-Wave](https://img.shields.io/badge/--black?logo=z-wave&style=social)&nbsp;
-![Garmin](https://img.shields.io/badge/--black?logo=garmin&style=social)&nbsp;
-![Gimp](https://img.shields.io/badge/--black?logo=gimp&style=social)&nbsp;
+![Arduino](https://img.shields.io/badge/--black?logo=arduino&style=social "Arduino")&nbsp;
+![Node-RED](https://img.shields.io/badge/--black?logo=node-red&style=social "Node-RED")&nbsp;
+![Telegram](https://img.shields.io/badge/--black?logo=telegram&style=social "Telegram")&nbsp;
+![Zigbee](https://img.shields.io/badge/--black?logo=zigbee&style=social "Zigbee")&nbsp;
+![Garmin](https://img.shields.io/badge/--black?logo=garmin&style=social "Garmin")&nbsp;
+![Gimp](https://img.shields.io/badge/--black?logo=gimp&style=social "Gimp")&nbsp;
 ...
 
 **Stats:** 
